@@ -9,6 +9,10 @@ Along with the other main developer, I worked on important classes that were cru
 
 My main role for this project was frontend design and development. I worked on the design and implementation of the application windows to make them user friendly. I designed the manner in which we navigated through different pages/windows of the application. I implemented a simple search parser to enhance the user experience. The parser would would interpret an input for a user, perhaps a class they are interested in seeing the information, and if the class was in our database then the result would show the user how to get the information page of the class. Otherwise, it would tell the user the class was not found in our database.
 
+I was also responsible for assuring that all the documentation for the iterations of the project were reported in time to our supervisor/professor and that every group member made their appropriate contributions. I had to contact a group member if the deadline was approaching and they hadn't contributed their part to the document, so that they could write their part in time before I had to report it to our professor. 
+
 INSPIRATION
 
+
 FOCUS
+As seen by the project examples part of this document, for the academic projects I have participated in, the vast majority of my work involves frontend development. If I were given the time and resources to learn anything during my internship, it would be to work with more backend development. 
