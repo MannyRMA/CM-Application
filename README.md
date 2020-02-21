@@ -15,4 +15,7 @@ INSPIRATION
 
 
 FOCUS
-As seen by the project examples part of this document, for the academic projects I have participated in, the vast majority of my work involves frontend development. If I were given the time and resources to learn anything during my internship, it would be to work with more backend development. 
+
+As seen by the project examples part of this document, for the academic projects I have participated in, the vast majority of my work involves frontend development. If I were given the time and resources to learn anything during my internship, it would be to work with more backend development. Learn and work with SQL to manage data with relational database management system. Recently I have been interested in learning more about MS Graph API and integrating developed products with Microsoft Services.
+
+
