@@ -23,3 +23,5 @@ As seen by my previous project experiences, most of my work involves frontend de
 
 The way I would spend my time learning backend development for a professional application would be to spend some time (about an hour) learning these new technologies and libraries by reading their documentation and applying what I learned in a practical application. I would seek advice from people who have used these technologies to see how they are used in real world examples and seek involvement in areas where I can expand my knowledge. My hope is to find an area in the project where can provide my own ideas to expand or improve on existent systems in order to improve end user experience and leave my mark in the project.
 
+
+Link to the code sandbox coding challenge: https://codesandbox.io/s/2020-internship-exercise-menu-9nc0d
